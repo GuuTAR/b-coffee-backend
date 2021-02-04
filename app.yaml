@@ -1,0 +1,9 @@
+runtime : nodejs14
+env : standard
+
+env_variables:
+  DB_USER: GuuTAR
+  DB_PASS: 123456
+  DB_NAME: bcoffee
+  # e.g. my-awesome-project:us-central1:my-cloud-sql-instance
+  CLOUD_SQL_CONNECTION_NAME: festive-canto-301608:asia-southeast1:b-coffee
